@@ -24,7 +24,7 @@
  * By default, the image file will be arranged into 2 rows and 4 columns equaling 8 images.
  *      ----------------------------------------------------------------
  *        Normal      |    Normal      |     Normal      |
- *        4-dir           |    4-dir            |     4-dir           |
+ *        4-dir       |    4-dir       |     4-dir       |
  *        walking     |    running     |     standby     |     EMPTY
  *        image       |    image       |     image       |
  *      ----------------------------------------------------------------
