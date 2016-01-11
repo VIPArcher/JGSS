@@ -4,7 +4,7 @@
 
 /*:
  * @plugindesc Skip Title.
- * @author taroxd
+ * @author VIPArcher
  *
  * @param Test Only
  * @desc Whether to skip title only in playtest. true/false
